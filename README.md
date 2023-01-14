@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @hajsa37
 - 👀 I’m interested in programing i guess.
-- 🌱 I’m currently learning C#
+- 🌱 I’m currently taking CS50W course.
 - 💞️ I’m looking to collaborate on nothing rn.
 - 📫 How to reach me? Best to e-mail me on kontakt.hajsa@gmail.com
 
